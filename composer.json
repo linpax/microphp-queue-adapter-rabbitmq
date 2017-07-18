@@ -1,0 +1,16 @@
+{
+  "name": "linpax/microphp-queue-adapter-rabbitmq",
+  "description": "MicroPHP queue adapter for RabbitMQ",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleg Lunegov",
+      "email": "testuser@mail.linpax.org"
+    }
+  ],
+  "require": {
+    "linpax/microphp-driver-rabbitmq": "dev-master",
+    "linpax/microphp-queue": "dev-master"
+  }
+}
